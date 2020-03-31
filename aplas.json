@@ -1,21 +1,25 @@
 {
-  "id": "seamless_engine",
-  "name": "Seamless Engine",
-  "categoryId": "core",
-  "description": "Customizable systemic encoding",
-  "investment_24m": "320",
-  "hostedtype": "OnPremise",
-  "licensing_cost": "79",
-  "status_color": "#0000FF",
-  "type": "InHouseDev",
-  "support_cost": "167",
-  "deployment_date": "19/11/18",
-  "end_of_maintenance": "3/7/17",
-  "department": "Business Development",
-  "status": "InDevelopment",
-  "end_of_life": "12/6/20",
-  "sme_name": "Nikolia Pundy",
-  "months_to_renew_support": "6",
-  "sme_email": "Nikolia.Pundy@memento.net.au",
-  "investment_number": "74"
+  "applications": [
+    {
+      "id": "seamless_engine",
+      "name": "Seamless Engine",
+      "categoryId": "core",
+      "description": "Customizable systemic encoding",
+      "investment_24m": "320",
+      "hostedtype": "OnPremise",
+      "licensing_cost": "79",
+      "status_color": "#0000FF",
+      "type": "InHouseDev",
+      "support_cost": "167",
+      "deployment_date": "19/11/18",
+      "end_of_maintenance": "3/7/17",
+      "department": "Business Development",
+      "status": "InDevelopment",
+      "end_of_life": "12/6/20",
+      "sme_name": "Nikolia Pundy",
+      "months_to_renew_support": "6",
+      "sme_email": "Nikolia.Pundy@memento.net.au",
+      "investment_number": "74"
+    }
+  ]
 }
